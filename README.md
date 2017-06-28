@@ -22,8 +22,28 @@ This is implemented for the color transfer using Monge-Kantorovitch Linear in To
 	'''Bash
 	th color_transfer_MKL.lua
 
-# Notice 
-	The pictures on this website are released free of copyrights.
 	
 # Examples
 
+<table style="width:100%">
+<tr>
+<td><img src="scotland_house.png"  width="320" ></td>
+<td><img src="scotland_plain.png"  width="320" ></td>
+</tr>
+<tr>
+<td>input ref</td>
+<td>input target</td>
+</tr>
+<tr>
+<td><img src="IR_MKL.png"  width="320" ></td>
+<td></td>
+</tr>
+<tr>
+<td>Linear Monge-Kantorovitch solution in RGB space</td>
+<td></td>
+</tr>
+</table>
+
+
+# Notice 
+	The pictures on this website are released free of copyrights.
