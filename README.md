@@ -1,5 +1,5 @@
 # color_transfer_MKL
-This is implemented for the color transfer using Monge-Kantorovitch Linear in Torch/Lua with GPU mode
+This is torch implemented for the color transfer using Monge-Kantorovitch Linear with GPU mode
 
 	This package contains one script to run color mapping algorithm as described in 
 
