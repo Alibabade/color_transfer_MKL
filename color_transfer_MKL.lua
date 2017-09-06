@@ -4,14 +4,10 @@ require 'MKL'
 require 'reshape'
 
 --[[
-This script is implemented for the codes of 
+This script is torch implemented for the codes of 
 [Pitie07-CVMP]  The Linear Monge-Kantorovith Linear Colour Mapping
                 for Example-Based Colour Transfer
                 F.Pitie, A. Kokaram (2007)
-
-Editor: Li Wang
-Date: June 23 2017
-
 
 --]]
 function main()
